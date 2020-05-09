@@ -1,0 +1,42 @@
+{
+    "logs": [
+        {
+            "id": 1,
+            "message": "Changed hard drive on workstation 005",
+            "attention": false,
+            "data": "03-02-2020",
+            "tech": "Jeff Bezos"
+        },
+        {
+            "id": 2,
+            "message": "Changed hard drive on workstation 003",
+            "attention": false,
+            "data": "03-02-2020",
+            "tech": "Jack Ma"
+        },
+        {
+            "id": 3,
+            "message": "Changed hard drive on workstation 001",
+            "attention": true,
+            "data": "03-02-2020",
+            "tech": "Bill Gates"
+        }
+    ],
+    "techs": [
+        {
+            "id": 1,
+            "firstName": "Bill",
+            "lastName": "Gates"
+        },
+        {
+            "id": 2,
+            "firstName": "Jeff",
+            "lastName": "Bezos"
+        },
+        {
+            "id": 3,
+            "firstName": "Jack",
+            "lastName": "Ma"
+        }
+    ]
+}
